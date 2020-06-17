@@ -11,7 +11,23 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2f664938-bbd2-4c3f-b741-f01e8e9521a5" name="Default Changelist" comment="" />
+    <list default="true" id="2f664938-bbd2-4c3f-b741-f01e8e9521a5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/baseBSC.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/baseBSC.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/baseBSC.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/baseBSC.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/baseBSC.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/baseBSC.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/baseBSC.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/baseBSC.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/baseBSC.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/baseBSC.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/baseBSC.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/baseBSC.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/baseBSC.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/baseBSC.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/baseBSC.dir/main.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/baseBSC.dir/main.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/baseBSC" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/baseBSC" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/baseBSC.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/baseBSC.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,7 +37,11 @@
     <option name="formatViaClangd" value="false" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1dSSPKryOUUQkk8XFqftp4KgUYf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -50,10 +70,49 @@
       <workItem from="1592416976422" duration="5000" />
       <workItem from="1592416993160" duration="115000" />
       <workItem from="1592417185037" duration="3000" />
+      <workItem from="1592417198955" duration="3389000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="478" y="220" key="#Deployment" timestamp="1592417286180">
+      <screen x="0" y="23" width="1792" height="1026" />
+    </state>
+    <state x="478" y="220" key="#Deployment/1792.107.1920.1057/0.23.1792.1026@0.23.1792.1026" timestamp="1592417286180" />
+    <state x="329" y="95" key="CommitChangelistDialog2" timestamp="1592417428251">
+      <screen x="0" y="23" width="1792" height="1026" />
+    </state>
+    <state x="329" y="95" key="CommitChangelistDialog2/1792.107.1920.1057/0.23.1792.1026@0.23.1792.1026" timestamp="1592417428251" />
+    <state x="749" y="459" key="Github.ShareDialog" timestamp="1592417641395">
+      <screen x="0" y="23" width="1792" height="1026" />
+    </state>
+    <state x="749" y="459" key="Github.ShareDialog/1792.107.1920.1057/0.23.1792.1026@0.23.1792.1026" timestamp="1592417641395" />
+    <state x="669" y="267" key="Github.UntrackedFilesDialog" timestamp="1592417648932">
+      <screen x="0" y="23" width="1792" height="1026" />
+    </state>
+    <state x="669" y="267" key="Github.UntrackedFilesDialog/1792.107.1920.1057/0.23.1792.1026@0.23.1792.1026" timestamp="1592417648932" />
+    <state width="1878" height="267" key="GridCell.Tab.0.bottom" timestamp="1592420604436">
+      <screen x="1792" y="107" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="267" key="GridCell.Tab.0.bottom/1792.107.1920.1057/0.23.1792.1026@1792.107.1920.1057" timestamp="1592420604436" />
+    <state width="1878" height="267" key="GridCell.Tab.0.bottom/1792.107.1920.982/0.23.1792.1097@1792.107.1920.982" timestamp="1592418168055" />
+    <state width="1878" height="267" key="GridCell.Tab.0.center" timestamp="1592420604435">
+      <screen x="1792" y="107" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="267" key="GridCell.Tab.0.center/1792.107.1920.1057/0.23.1792.1026@1792.107.1920.1057" timestamp="1592420604435" />
+    <state width="1878" height="267" key="GridCell.Tab.0.center/1792.107.1920.982/0.23.1792.1097@1792.107.1920.982" timestamp="1592418168054" />
+    <state width="1878" height="267" key="GridCell.Tab.0.left" timestamp="1592420604434">
+      <screen x="1792" y="107" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="267" key="GridCell.Tab.0.left/1792.107.1920.1057/0.23.1792.1026@1792.107.1920.1057" timestamp="1592420604434" />
+    <state width="1878" height="267" key="GridCell.Tab.0.left/1792.107.1920.982/0.23.1792.1097@1792.107.1920.982" timestamp="1592418168053" />
+    <state width="1878" height="267" key="GridCell.Tab.0.right" timestamp="1592420604435">
+      <screen x="1792" y="107" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="267" key="GridCell.Tab.0.right/1792.107.1920.1057/0.23.1792.1026@1792.107.1920.1057" timestamp="1592420604435" />
+    <state width="1878" height="267" key="GridCell.Tab.0.right/1792.107.1920.982/0.23.1792.1097@1792.107.1920.982" timestamp="1592418168054" />
   </component>
 </project>

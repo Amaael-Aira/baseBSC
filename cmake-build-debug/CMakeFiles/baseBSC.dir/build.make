@@ -79,6 +79,8 @@ baseBSC_EXTERNAL_OBJECTS =
 
 baseBSC: CMakeFiles/baseBSC.dir/main.cpp.o
 baseBSC: CMakeFiles/baseBSC.dir/build.make
+baseBSC: /Applications/MATLAB_R2020a.app/bin/maci64/libmat.dylib
+baseBSC: /Applications/MATLAB_R2020a.app/bin/maci64/libmx.dylib
 baseBSC: CMakeFiles/baseBSC.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/amaael/CLionProjects/baseBSC/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable baseBSC"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/baseBSC.dir/link.txt --verbose=$(VERBOSE)

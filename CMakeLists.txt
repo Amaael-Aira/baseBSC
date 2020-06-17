@@ -4,3 +4,8 @@ project(baseBSC)
 set(CMAKE_CXX_STANDARD 14)
 
 add_executable(baseBSC main.cpp)
+include_directories(/Applications/MATLAB_R2020a.app/extern/include)
+link_directories(/Applications/MATLAB_R2020a.app/bin/maci64/)
+link_directories(/Applications/MATLAB_R2020a.app/sys/os/maci64/)
+target_link_libraries(baseBSC /Applications/MATLAB_R2020a.app/bin/maci64/libmat.dylib)
+target_link_libraries(baseBSC /Applications/MATLAB_R2020a.app/bin/maci64/libmx.dylib)
