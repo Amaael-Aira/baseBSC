@@ -11,7 +11,36 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2f664938-bbd2-4c3f-b741-f01e8e9521a5" name="Default Changelist" comment="" />
+    <list default="true" id="2f664938-bbd2-4c3f-b741-f01e8e9521a5" name="Default Changelist" comment="test commit 2">
+      <change afterPath="$PROJECT_DIR$/Functions.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Functions.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Receiver.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Receiver.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Transmitter.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Transmitter.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baseList.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baseList.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mattest.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mattest.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/baseBSC.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/baseBSC.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/baseBSC.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/baseBSC.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/baseBSC.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/baseBSC.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/baseBSC.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/baseBSC.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/baseBSC.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/baseBSC.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/baseBSC.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/baseBSC.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/baseBSC.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/baseBSC.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/baseBSC.dir/main.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/baseBSC.dir/main.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/baseBSC.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/baseBSC.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/baseBSC" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/baseBSC" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/baseBSC.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/baseBSC.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/mattest.mat" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/mattest.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,7 +59,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1dSSPKryOUUQkk8XFqftp4KgUYf" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -38,6 +69,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="cf.first.check.clang-format" value="false" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
   </component>
   <component name="RunManager">
     <configuration name="baseBSC" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="baseBSC" TARGET_NAME="baseBSC" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="baseBSC" RUN_TARGET_NAME="baseBSC">
@@ -59,7 +91,7 @@
       <workItem from="1592416976422" duration="5000" />
       <workItem from="1592416993160" duration="115000" />
       <workItem from="1592417185037" duration="3000" />
-      <workItem from="1592417198955" duration="3694000" />
+      <workItem from="1592417198955" duration="18427000" />
     </task>
     <task id="LOCAL-00001" summary="mat file system successfully installed">
       <created>1592420912593</created>
@@ -75,7 +107,14 @@
       <option name="project" value="LOCAL" />
       <updated>1592421087976</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="test commit 2">
+      <created>1592421166664</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1592421166664</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -84,45 +123,64 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="mat file system successfully installed" />
     <MESSAGE value="test commits" />
-    <option name="LAST_COMMIT_MESSAGE" value="test commits" />
+    <MESSAGE value="test commit 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="test commit 2" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="478" y="220" key="#Deployment" timestamp="1592417286180">
-      <screen x="0" y="23" width="1792" height="1026" />
+    <state x="2304" y="310" key="#Deployment" timestamp="1592422142484">
+      <screen x="1792" y="107" width="1920" height="1057" />
     </state>
     <state x="478" y="220" key="#Deployment/1792.107.1920.1057/0.23.1792.1026@0.23.1792.1026" timestamp="1592417286180" />
-    <state x="2145" y="181" key="CommitChangelistDialog2" timestamp="1592421087885">
+    <state x="2304" y="310" key="#Deployment/1792.107.1920.1057/0.23.1792.1026@1792.107.1920.1057" timestamp="1592422142484" />
+    <state x="2565" y="358" key="#com.intellij.ide.util.MemberChooser" timestamp="1592435923494">
+      <screen x="1792" y="107" width="1920" height="1057" />
+    </state>
+    <state x="2565" y="358" key="#com.intellij.ide.util.MemberChooser/1792.107.1920.1057/0.23.1792.1026@1792.107.1920.1057" timestamp="1592435923494" />
+    <state x="2264" y="107" key="CommitChangelistDialog2" timestamp="1592422207027">
       <screen x="1792" y="107" width="1920" height="1057" />
     </state>
     <state x="329" y="95" key="CommitChangelistDialog2/1792.107.1920.1057/0.23.1792.1026@0.23.1792.1026" timestamp="1592417428251" />
-    <state x="2145" y="181" key="CommitChangelistDialog2/1792.107.1920.1057/0.23.1792.1026@1792.107.1920.1057" timestamp="1592421087885" />
-    <state x="749" y="459" key="Github.ShareDialog" timestamp="1592417641395">
-      <screen x="0" y="23" width="1792" height="1026" />
+    <state x="2264" y="107" key="CommitChangelistDialog2/1792.107.1920.1057/0.23.1792.1026@1792.107.1920.1057" timestamp="1592422207027" />
+    <state x="2595" y="556" key="Github.ShareDialog" timestamp="1592425721589">
+      <screen x="1792" y="107" width="1920" height="1057" />
     </state>
     <state x="749" y="459" key="Github.ShareDialog/1792.107.1920.1057/0.23.1792.1026@0.23.1792.1026" timestamp="1592417641395" />
+    <state x="2595" y="556" key="Github.ShareDialog/1792.107.1920.1057/0.23.1792.1026@1792.107.1920.1057" timestamp="1592425721589" />
     <state x="669" y="267" key="Github.UntrackedFilesDialog" timestamp="1592417648932">
       <screen x="0" y="23" width="1792" height="1026" />
     </state>
     <state x="669" y="267" key="Github.UntrackedFilesDialog/1792.107.1920.1057/0.23.1792.1026@0.23.1792.1026" timestamp="1592417648932" />
-    <state width="1878" height="267" key="GridCell.Tab.0.bottom" timestamp="1592420604436">
+    <state width="1878" height="266" key="GridCell.Tab.0.bottom" timestamp="1592438501944">
       <screen x="1792" y="107" width="1920" height="1057" />
     </state>
-    <state width="1878" height="267" key="GridCell.Tab.0.bottom/1792.107.1920.1057/0.23.1792.1026@1792.107.1920.1057" timestamp="1592420604436" />
+    <state width="1878" height="266" key="GridCell.Tab.0.bottom/1792.107.1920.1057/0.23.1792.1026@1792.107.1920.1057" timestamp="1592438501944" />
     <state width="1878" height="267" key="GridCell.Tab.0.bottom/1792.107.1920.982/0.23.1792.1097@1792.107.1920.982" timestamp="1592418168055" />
-    <state width="1878" height="267" key="GridCell.Tab.0.center" timestamp="1592420604435">
+    <state width="1878" height="266" key="GridCell.Tab.0.center" timestamp="1592438501943">
       <screen x="1792" y="107" width="1920" height="1057" />
     </state>
-    <state width="1878" height="267" key="GridCell.Tab.0.center/1792.107.1920.1057/0.23.1792.1026@1792.107.1920.1057" timestamp="1592420604435" />
+    <state width="1878" height="266" key="GridCell.Tab.0.center/1792.107.1920.1057/0.23.1792.1026@1792.107.1920.1057" timestamp="1592438501943" />
     <state width="1878" height="267" key="GridCell.Tab.0.center/1792.107.1920.982/0.23.1792.1097@1792.107.1920.982" timestamp="1592418168054" />
-    <state width="1878" height="267" key="GridCell.Tab.0.left" timestamp="1592420604434">
+    <state width="1878" height="266" key="GridCell.Tab.0.left" timestamp="1592438501942">
       <screen x="1792" y="107" width="1920" height="1057" />
     </state>
-    <state width="1878" height="267" key="GridCell.Tab.0.left/1792.107.1920.1057/0.23.1792.1026@1792.107.1920.1057" timestamp="1592420604434" />
+    <state width="1878" height="266" key="GridCell.Tab.0.left/1792.107.1920.1057/0.23.1792.1026@1792.107.1920.1057" timestamp="1592438501942" />
     <state width="1878" height="267" key="GridCell.Tab.0.left/1792.107.1920.982/0.23.1792.1097@1792.107.1920.982" timestamp="1592418168053" />
-    <state width="1878" height="267" key="GridCell.Tab.0.right" timestamp="1592420604435">
+    <state width="1878" height="266" key="GridCell.Tab.0.right" timestamp="1592438501944">
       <screen x="1792" y="107" width="1920" height="1057" />
     </state>
-    <state width="1878" height="267" key="GridCell.Tab.0.right/1792.107.1920.1057/0.23.1792.1026@1792.107.1920.1057" timestamp="1592420604435" />
+    <state width="1878" height="266" key="GridCell.Tab.0.right/1792.107.1920.1057/0.23.1792.1026@1792.107.1920.1057" timestamp="1592438501944" />
     <state width="1878" height="267" key="GridCell.Tab.0.right/1792.107.1920.982/0.23.1792.1097@1792.107.1920.982" timestamp="1592418168054" />
+    <state x="2253" y="274" key="SettingsEditor" timestamp="1592430509101">
+      <screen x="1792" y="107" width="1920" height="1057" />
+    </state>
+    <state x="2253" y="274" key="SettingsEditor/1792.107.1920.1057/0.23.1792.1026@1792.107.1920.1057" timestamp="1592430509101" />
+    <state x="2352" y="338" key="Vcs.Push.Dialog.v2" timestamp="1592425738231">
+      <screen x="1792" y="107" width="1920" height="1057" />
+    </state>
+    <state x="2352" y="338" key="Vcs.Push.Dialog.v2/1792.107.1920.1057/0.23.1792.1026@1792.107.1920.1057" timestamp="1592425738231" />
+    <state x="2540" y="519" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1592422248543">
+      <screen x="1792" y="107" width="1920" height="1057" />
+    </state>
+    <state x="2540" y="519" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1792.107.1920.1057/0.23.1792.1026@1792.107.1920.1057" timestamp="1592422248543" />
   </component>
 </project>

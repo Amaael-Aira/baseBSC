@@ -80,7 +80,37 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/Users/amaael/CLionProjects/baseBSC/Functions.cpp">
+			<Option target="baseBSC"/>
+		</Unit>
+		<Unit filename="/Users/amaael/CLionProjects/baseBSC/Functions.h">
+			<Option target="baseBSC"/>
+		</Unit>
+		<Unit filename="/Users/amaael/CLionProjects/baseBSC/Receiver.cpp">
+			<Option target="baseBSC"/>
+		</Unit>
+		<Unit filename="/Users/amaael/CLionProjects/baseBSC/Receiver.h">
+			<Option target="baseBSC"/>
+		</Unit>
+		<Unit filename="/Users/amaael/CLionProjects/baseBSC/Transmitter.cpp">
+			<Option target="baseBSC"/>
+		</Unit>
+		<Unit filename="/Users/amaael/CLionProjects/baseBSC/Transmitter.h">
+			<Option target="baseBSC"/>
+		</Unit>
+		<Unit filename="/Users/amaael/CLionProjects/baseBSC/baseList.cpp">
+			<Option target="baseBSC"/>
+		</Unit>
+		<Unit filename="/Users/amaael/CLionProjects/baseBSC/baseList.h">
+			<Option target="baseBSC"/>
+		</Unit>
 		<Unit filename="/Users/amaael/CLionProjects/baseBSC/main.cpp">
+			<Option target="baseBSC"/>
+		</Unit>
+		<Unit filename="/Users/amaael/CLionProjects/baseBSC/mattest.cpp">
+			<Option target="baseBSC"/>
+		</Unit>
+		<Unit filename="/Users/amaael/CLionProjects/baseBSC/mattest.h">
 			<Option target="baseBSC"/>
 		</Unit>
 		<Unit filename="/Users/amaael/CLionProjects/baseBSC/CMakeLists.txt">

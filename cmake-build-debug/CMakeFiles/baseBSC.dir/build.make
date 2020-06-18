@@ -70,19 +70,94 @@ CMakeFiles/baseBSC.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/baseBSC.dir/main.cpp.s"
 	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/amaael/CLionProjects/baseBSC/main.cpp -o CMakeFiles/baseBSC.dir/main.cpp.s
 
+CMakeFiles/baseBSC.dir/baseList.cpp.o: CMakeFiles/baseBSC.dir/flags.make
+CMakeFiles/baseBSC.dir/baseList.cpp.o: ../baseList.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amaael/CLionProjects/baseBSC/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/baseBSC.dir/baseList.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/baseBSC.dir/baseList.cpp.o -c /Users/amaael/CLionProjects/baseBSC/baseList.cpp
+
+CMakeFiles/baseBSC.dir/baseList.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/baseBSC.dir/baseList.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/amaael/CLionProjects/baseBSC/baseList.cpp > CMakeFiles/baseBSC.dir/baseList.cpp.i
+
+CMakeFiles/baseBSC.dir/baseList.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/baseBSC.dir/baseList.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/amaael/CLionProjects/baseBSC/baseList.cpp -o CMakeFiles/baseBSC.dir/baseList.cpp.s
+
+CMakeFiles/baseBSC.dir/Transmitter.cpp.o: CMakeFiles/baseBSC.dir/flags.make
+CMakeFiles/baseBSC.dir/Transmitter.cpp.o: ../Transmitter.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amaael/CLionProjects/baseBSC/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/baseBSC.dir/Transmitter.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/baseBSC.dir/Transmitter.cpp.o -c /Users/amaael/CLionProjects/baseBSC/Transmitter.cpp
+
+CMakeFiles/baseBSC.dir/Transmitter.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/baseBSC.dir/Transmitter.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/amaael/CLionProjects/baseBSC/Transmitter.cpp > CMakeFiles/baseBSC.dir/Transmitter.cpp.i
+
+CMakeFiles/baseBSC.dir/Transmitter.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/baseBSC.dir/Transmitter.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/amaael/CLionProjects/baseBSC/Transmitter.cpp -o CMakeFiles/baseBSC.dir/Transmitter.cpp.s
+
+CMakeFiles/baseBSC.dir/Receiver.cpp.o: CMakeFiles/baseBSC.dir/flags.make
+CMakeFiles/baseBSC.dir/Receiver.cpp.o: ../Receiver.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amaael/CLionProjects/baseBSC/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/baseBSC.dir/Receiver.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/baseBSC.dir/Receiver.cpp.o -c /Users/amaael/CLionProjects/baseBSC/Receiver.cpp
+
+CMakeFiles/baseBSC.dir/Receiver.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/baseBSC.dir/Receiver.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/amaael/CLionProjects/baseBSC/Receiver.cpp > CMakeFiles/baseBSC.dir/Receiver.cpp.i
+
+CMakeFiles/baseBSC.dir/Receiver.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/baseBSC.dir/Receiver.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/amaael/CLionProjects/baseBSC/Receiver.cpp -o CMakeFiles/baseBSC.dir/Receiver.cpp.s
+
+CMakeFiles/baseBSC.dir/Functions.cpp.o: CMakeFiles/baseBSC.dir/flags.make
+CMakeFiles/baseBSC.dir/Functions.cpp.o: ../Functions.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amaael/CLionProjects/baseBSC/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/baseBSC.dir/Functions.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/baseBSC.dir/Functions.cpp.o -c /Users/amaael/CLionProjects/baseBSC/Functions.cpp
+
+CMakeFiles/baseBSC.dir/Functions.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/baseBSC.dir/Functions.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/amaael/CLionProjects/baseBSC/Functions.cpp > CMakeFiles/baseBSC.dir/Functions.cpp.i
+
+CMakeFiles/baseBSC.dir/Functions.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/baseBSC.dir/Functions.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/amaael/CLionProjects/baseBSC/Functions.cpp -o CMakeFiles/baseBSC.dir/Functions.cpp.s
+
+CMakeFiles/baseBSC.dir/mattest.cpp.o: CMakeFiles/baseBSC.dir/flags.make
+CMakeFiles/baseBSC.dir/mattest.cpp.o: ../mattest.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amaael/CLionProjects/baseBSC/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/baseBSC.dir/mattest.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/baseBSC.dir/mattest.cpp.o -c /Users/amaael/CLionProjects/baseBSC/mattest.cpp
+
+CMakeFiles/baseBSC.dir/mattest.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/baseBSC.dir/mattest.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/amaael/CLionProjects/baseBSC/mattest.cpp > CMakeFiles/baseBSC.dir/mattest.cpp.i
+
+CMakeFiles/baseBSC.dir/mattest.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/baseBSC.dir/mattest.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/amaael/CLionProjects/baseBSC/mattest.cpp -o CMakeFiles/baseBSC.dir/mattest.cpp.s
+
 # Object files for target baseBSC
 baseBSC_OBJECTS = \
-"CMakeFiles/baseBSC.dir/main.cpp.o"
+"CMakeFiles/baseBSC.dir/main.cpp.o" \
+"CMakeFiles/baseBSC.dir/baseList.cpp.o" \
+"CMakeFiles/baseBSC.dir/Transmitter.cpp.o" \
+"CMakeFiles/baseBSC.dir/Receiver.cpp.o" \
+"CMakeFiles/baseBSC.dir/Functions.cpp.o" \
+"CMakeFiles/baseBSC.dir/mattest.cpp.o"
 
 # External object files for target baseBSC
 baseBSC_EXTERNAL_OBJECTS =
 
 baseBSC: CMakeFiles/baseBSC.dir/main.cpp.o
+baseBSC: CMakeFiles/baseBSC.dir/baseList.cpp.o
+baseBSC: CMakeFiles/baseBSC.dir/Transmitter.cpp.o
+baseBSC: CMakeFiles/baseBSC.dir/Receiver.cpp.o
+baseBSC: CMakeFiles/baseBSC.dir/Functions.cpp.o
+baseBSC: CMakeFiles/baseBSC.dir/mattest.cpp.o
 baseBSC: CMakeFiles/baseBSC.dir/build.make
 baseBSC: /Applications/MATLAB_R2020a.app/bin/maci64/libmat.dylib
 baseBSC: /Applications/MATLAB_R2020a.app/bin/maci64/libmx.dylib
 baseBSC: CMakeFiles/baseBSC.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/amaael/CLionProjects/baseBSC/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable baseBSC"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/amaael/CLionProjects/baseBSC/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Linking CXX executable baseBSC"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/baseBSC.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

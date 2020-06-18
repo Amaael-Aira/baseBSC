@@ -123,6 +123,114 @@ baseBSC/fast:
 	$(MAKE) -f CMakeFiles/baseBSC.dir/build.make CMakeFiles/baseBSC.dir/build
 .PHONY : baseBSC/fast
 
+Functions.o: Functions.cpp.o
+
+.PHONY : Functions.o
+
+# target to build an object file
+Functions.cpp.o:
+	$(MAKE) -f CMakeFiles/baseBSC.dir/build.make CMakeFiles/baseBSC.dir/Functions.cpp.o
+.PHONY : Functions.cpp.o
+
+Functions.i: Functions.cpp.i
+
+.PHONY : Functions.i
+
+# target to preprocess a source file
+Functions.cpp.i:
+	$(MAKE) -f CMakeFiles/baseBSC.dir/build.make CMakeFiles/baseBSC.dir/Functions.cpp.i
+.PHONY : Functions.cpp.i
+
+Functions.s: Functions.cpp.s
+
+.PHONY : Functions.s
+
+# target to generate assembly for a file
+Functions.cpp.s:
+	$(MAKE) -f CMakeFiles/baseBSC.dir/build.make CMakeFiles/baseBSC.dir/Functions.cpp.s
+.PHONY : Functions.cpp.s
+
+Receiver.o: Receiver.cpp.o
+
+.PHONY : Receiver.o
+
+# target to build an object file
+Receiver.cpp.o:
+	$(MAKE) -f CMakeFiles/baseBSC.dir/build.make CMakeFiles/baseBSC.dir/Receiver.cpp.o
+.PHONY : Receiver.cpp.o
+
+Receiver.i: Receiver.cpp.i
+
+.PHONY : Receiver.i
+
+# target to preprocess a source file
+Receiver.cpp.i:
+	$(MAKE) -f CMakeFiles/baseBSC.dir/build.make CMakeFiles/baseBSC.dir/Receiver.cpp.i
+.PHONY : Receiver.cpp.i
+
+Receiver.s: Receiver.cpp.s
+
+.PHONY : Receiver.s
+
+# target to generate assembly for a file
+Receiver.cpp.s:
+	$(MAKE) -f CMakeFiles/baseBSC.dir/build.make CMakeFiles/baseBSC.dir/Receiver.cpp.s
+.PHONY : Receiver.cpp.s
+
+Transmitter.o: Transmitter.cpp.o
+
+.PHONY : Transmitter.o
+
+# target to build an object file
+Transmitter.cpp.o:
+	$(MAKE) -f CMakeFiles/baseBSC.dir/build.make CMakeFiles/baseBSC.dir/Transmitter.cpp.o
+.PHONY : Transmitter.cpp.o
+
+Transmitter.i: Transmitter.cpp.i
+
+.PHONY : Transmitter.i
+
+# target to preprocess a source file
+Transmitter.cpp.i:
+	$(MAKE) -f CMakeFiles/baseBSC.dir/build.make CMakeFiles/baseBSC.dir/Transmitter.cpp.i
+.PHONY : Transmitter.cpp.i
+
+Transmitter.s: Transmitter.cpp.s
+
+.PHONY : Transmitter.s
+
+# target to generate assembly for a file
+Transmitter.cpp.s:
+	$(MAKE) -f CMakeFiles/baseBSC.dir/build.make CMakeFiles/baseBSC.dir/Transmitter.cpp.s
+.PHONY : Transmitter.cpp.s
+
+baseList.o: baseList.cpp.o
+
+.PHONY : baseList.o
+
+# target to build an object file
+baseList.cpp.o:
+	$(MAKE) -f CMakeFiles/baseBSC.dir/build.make CMakeFiles/baseBSC.dir/baseList.cpp.o
+.PHONY : baseList.cpp.o
+
+baseList.i: baseList.cpp.i
+
+.PHONY : baseList.i
+
+# target to preprocess a source file
+baseList.cpp.i:
+	$(MAKE) -f CMakeFiles/baseBSC.dir/build.make CMakeFiles/baseBSC.dir/baseList.cpp.i
+.PHONY : baseList.cpp.i
+
+baseList.s: baseList.cpp.s
+
+.PHONY : baseList.s
+
+# target to generate assembly for a file
+baseList.cpp.s:
+	$(MAKE) -f CMakeFiles/baseBSC.dir/build.make CMakeFiles/baseBSC.dir/baseList.cpp.s
+.PHONY : baseList.cpp.s
+
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -150,6 +258,33 @@ main.cpp.s:
 	$(MAKE) -f CMakeFiles/baseBSC.dir/build.make CMakeFiles/baseBSC.dir/main.cpp.s
 .PHONY : main.cpp.s
 
+mattest.o: mattest.cpp.o
+
+.PHONY : mattest.o
+
+# target to build an object file
+mattest.cpp.o:
+	$(MAKE) -f CMakeFiles/baseBSC.dir/build.make CMakeFiles/baseBSC.dir/mattest.cpp.o
+.PHONY : mattest.cpp.o
+
+mattest.i: mattest.cpp.i
+
+.PHONY : mattest.i
+
+# target to preprocess a source file
+mattest.cpp.i:
+	$(MAKE) -f CMakeFiles/baseBSC.dir/build.make CMakeFiles/baseBSC.dir/mattest.cpp.i
+.PHONY : mattest.cpp.i
+
+mattest.s: mattest.cpp.s
+
+.PHONY : mattest.s
+
+# target to generate assembly for a file
+mattest.cpp.s:
+	$(MAKE) -f CMakeFiles/baseBSC.dir/build.make CMakeFiles/baseBSC.dir/mattest.cpp.s
+.PHONY : mattest.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -159,9 +294,24 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... baseBSC"
+	@echo "... Functions.o"
+	@echo "... Functions.i"
+	@echo "... Functions.s"
+	@echo "... Receiver.o"
+	@echo "... Receiver.i"
+	@echo "... Receiver.s"
+	@echo "... Transmitter.o"
+	@echo "... Transmitter.i"
+	@echo "... Transmitter.s"
+	@echo "... baseList.o"
+	@echo "... baseList.i"
+	@echo "... baseList.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
+	@echo "... mattest.o"
+	@echo "... mattest.i"
+	@echo "... mattest.s"
 .PHONY : help
 
 
